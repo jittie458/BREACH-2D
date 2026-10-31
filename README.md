@@ -1,3 +1,6 @@
+HOW TO PLAY
+Click on breach2d_v2.html then at the top right corner of the code you should see a download button,click it and download it then in your file explorer click on it and it should open up in your browser.Your welcome!
+
 Breach 2D is a top-down tactical shooter inspired by close-quarters breach-and-clear games. The maps are dark. You carry a flashlight and glow sticks, and your night vision needs a battery you must find and wire in. Move through 8 huge maps with 30 to 60 hostiles, lock down every objective, and bring your squad home alive.
 
 Choose your operator
