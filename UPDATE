@@ -1,0 +1,60 @@
+NEW UPDATE FOR BREACH 2D LOG 07/11/2026
+------------------------------------------------------------
+You can now customize how much squadmates you can have
+------------------------------------------------------------
+Where: Deploy screen, under Squad. The “Squad size” row cycles from 0 (solo) to 4.
+Classes: Each squadmate has its own class (Assault, Medic or Marksman). Your choices are saved.
+Formation: A bigger squad spreads out behind you in a staggered formation, and the squad commands work for everyone.
+------------------------------------------------------------
+New operator outfits
+------------------------------------------------------------
+Vanguard: Olive recon kit with a tactical vest and combat helmet.
+Doc: Medic blues with a red cross vest and a cap.
+Ghost: Black stealth suit with a hood.
+Bulwark: Black outfit, heavy plate vest and riot helmet, as in your example.
+Ram: Dark orange breacher harness with a gas mask.
+Ajax: Cyan rescue rig with a combat helmet.
+------------------------------------------------------------
+Both shield's looks have been reworked
+------------------------------------------------------------
+Bulwark’s shield: It is now a gently curved grey plate with a light rim along the front edge. The glass window and the white handle piece are gone.
+Ajax’s shield: It is now a smaller, gently curved cyan plate with a bright rim. The glass is removed.
+Placed rescue shield: The deployable shield on the ground uses the same curved look, also without glass.
+Curve: The bend is mild. It bulges forward by about half a character width on Bulwark and less on Ajax.
+New squad command system
+Command wheel (desktop)
+
+Open: Hold the middle mouse button. A wheel with 8 numbered slices appears in the middle of the screen.
+Issue a command: While you hold it, press 1 to 8 to give an order. The slice you used lights up green.
+Close: Release the middle button.
+While it is open: The number keys send commands instead of switching gear, and you cannot fire.
+
+The 8 commands
+Follow me.
+Hold position.
+Go to aim point.
+Stack at door.
+Breach and clear.
+Hold / free fire: Toggles between holding fire and firing at will.
+Regroup: The squad follows you and ceases fire for 3 seconds.
+Suppressing fire: New. The squad fires 40% faster for 6 seconds.
+------------------------------------------------------------
+Landscape view setting (mobile only)
+
+Where: Settings has a new “Landscape view” row, shown only on touch devices.
+Effect: With it on, the game rotates to landscape while your phone stays upright, so you can play without turning it. The control buttons float over the sides of the screen.
+Controls: It uses the floating on-screen sticks on the game area, as before.
+If you turn the phone sideways: The game switches to the normal landscape layout automatically.
+Menus: They stay upright even with the setting on.
+
+Other mobile improvements
+
+Vibration: Your phone vibrates briefly when you take a hit.
+Auto-pause: The game pauses by itself if you switch apps or tabs.
+Zoom: Pinch zoom and double-tap zoom are disabled.
+------------------------------------------------------------
+New suicide bombers to the enemies
+They do 45 damage on easy
+Increases damage by 2x by difficulty
+If you survive it you walk slower permanently and make your firing very unstable
+jittie,out
